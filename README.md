@@ -13,5 +13,9 @@ What are canonical strings?
 What is an SKU?
 * SKU stands for Stock Keeping Unit
 * It acts as a product ID
+
+Concept of Levenshtein Distance
+* Editing distance between two strings
+* Ex. "bug" vs. "burg" -> distance of 1 because you added an "r"
  
 
